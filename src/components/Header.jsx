@@ -25,7 +25,7 @@ function Header() {
       >
         <Link to="/">
           <img
-            src="./assets/logo.svg"
+            src="/assets/logo.svg"
             alt="space tourism logo"
             className="logo"
           />

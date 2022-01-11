@@ -1,6 +1,6 @@
 {
-  "name": "veterinary-project",
-  "homepage": "http://mabdullahse.github.io/veterinary-project",
+   
+  "name": "veterinaryproject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -10,6 +10,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <Theme>
+      
       <BrowserRouter>
         <div className="container pb-5">
           <Home />
